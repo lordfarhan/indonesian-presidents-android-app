@@ -3,7 +3,6 @@ A sample application build for finishing Dicoding course Belajar Android untuk P
 
 ## Plugins
 
-Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Dependencies | Url |
